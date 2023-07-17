@@ -1,2 +1,1 @@
-# infoscan
-This is a simple information gathering tool that will scan urls and provide information.
+An information gathering tool written in Python can be used to scan URLs and extract information such as the domain name, IP address, title, headers, and content. The tool can also be used to perform more advanced tasks such as crawling websites, extracting links, and performing keyword searches.
